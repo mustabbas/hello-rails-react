@@ -1,5 +1,5 @@
 current directory: /Users/sarathk/hello-rails-react/vendor/bundle/ruby/3.0.0/gems/digest-3.1.0/ext/digest/sha2
-/usr/local/var/rbenv/versions/3.0.3/bin/ruby -I /usr/local/var/rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220221-23463-sbnw1l.rb extconf.rb
+/usr/local/var/rbenv/versions/3.0.3/bin/ruby -I /usr/local/var/rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220222-32987-os6egm.rb extconf.rb
 checking for u_int8_t... yes
 checking for sys/cdefs.h... yes
 creating Makefile
@@ -15,4 +15,4 @@ linking shared-object digest/sha2.bundle
 
 current directory: /Users/sarathk/hello-rails-react/vendor/bundle/ruby/3.0.0/gems/digest-3.1.0/ext/digest/sha2
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 sha2.bundle ./.gem.20220221-23463-pu6lpg/digest
+/usr/bin/install -c -m 0755 sha2.bundle ./.gem.20220222-32987-1ci5lv/digest
