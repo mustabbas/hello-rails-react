@@ -1,5 +1,5 @@
 current directory: /Users/sarathk/hello-rails-react/vendor/bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
-/usr/local/var/rbenv/versions/3.0.3/bin/ruby -I /usr/local/var/rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220221-23463-pkkcbb.rb extconf.rb
+/usr/local/var/rbenv/versions/3.0.3/bin/ruby -I /usr/local/var/rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220222-32987-son60a.rb extconf.rb
 creating Makefile
 
 current directory: /Users/sarathk/hello-rails-react/vendor/bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
@@ -13,4 +13,4 @@ linking shared-object debug/debug.bundle
 
 current directory: /Users/sarathk/hello-rails-react/vendor/bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 debug.bundle ./.gem.20220221-23463-uyi9d/debug
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20220222-32987-xevyxn/debug

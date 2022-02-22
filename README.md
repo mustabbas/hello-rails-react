@@ -1,24 +1,46 @@
-# README
+# hello-rails-react
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project for learn setup rails-react.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+-  Ruby on Rails
+-  React
+-  Redux
+-  PostgreSQL
 
-* System dependencies
 
-* Configuration
+## Getting Started
 
-* Database creation
+Download the ZIP from this [Link](https://github.com/mustabbas/hello-rails-react.git), or run the following git command to clone the files to your machine:
 
-* Database initialization
+- git clone hhttps://github.com/mustabbas/hello-rails-react.git
+- Open the cloned folder on the IDE of your choice
+- Install the required dependecies with `bundle install`
+- run `db:migrate`
+- Use `rails s `to run the program
 
-* How to run the test suite
+## Author
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **MUSTAFA ABBAS**
 
-* Deployment instructions
+- GitHub: [@githubhandle](https://github.com/mustabbas)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mustabbas/)
 
-* ...
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/mustabbas/hello-rails-react/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
+
+

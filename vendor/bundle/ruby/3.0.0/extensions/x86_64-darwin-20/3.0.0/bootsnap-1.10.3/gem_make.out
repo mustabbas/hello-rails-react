@@ -1,5 +1,5 @@
 current directory: /Users/sarathk/hello-rails-react/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.3/ext/bootsnap
-/usr/local/var/rbenv/versions/3.0.3/bin/ruby -I /usr/local/var/rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220221-23463-w79h6a.rb extconf.rb
+/usr/local/var/rbenv/versions/3.0.3/bin/ruby -I /usr/local/var/rbenv/versions/3.0.3/lib/ruby/3.0.0 -r ./siteconf20220222-32987-e2ohie.rb extconf.rb
 creating Makefile
 
 current directory: /Users/sarathk/hello-rails-react/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.3/ext/bootsnap
@@ -12,4 +12,4 @@ linking shared-object bootsnap/bootsnap.bundle
 
 current directory: /Users/sarathk/hello-rails-react/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.10.3/ext/bootsnap
 make DESTDIR\= install
-/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20220221-23463-w485ns/bootsnap
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20220222-32987-rhl6iq/bootsnap
